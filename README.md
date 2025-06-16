@@ -1,5 +1,5 @@
 # PadoEngineDX11-Demo
-Showcase of PadoEngineDX11 **(in progress)**
+Showcase of PadoEngineDX11 **(in progress - private repository)**
 
 ![Image](https://github.com/user-attachments/assets/8cfb4c5b-5fe3-42f0-bf99-66c398b3f452)
 
