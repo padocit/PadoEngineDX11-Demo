@@ -1,4 +1,4 @@
-# PadoEngineDX11-Renderer Demo
+# PadoEngineDX11 - Renderer Demo
 Showcase of PadoEngineDX11 **(in progress - private repository)**
 
 ## Preview
