@@ -1,23 +1,30 @@
 # PadoEngineDX11-Demo
 Showcase of PadoEngineDX11 **(in progress - private repository)**
 
-![Image](https://github.com/user-attachments/assets/8cfb4c5b-5fe3-42f0-bf99-66c398b3f452)
+## Preview
+![image](https://github.com/user-attachments/assets/3234fa80-2229-4d3b-932a-7a6a35791d56)
 
 - First Person View
 - PBR (Unreal Engine style)
 - Post Processing: Fog, Shadow
 - Post Effects: Bloom, Exposure, Gamma
 - Mirror
+- Shadow
+  - PCF, PCSS
 
-
-![image(2)](https://github.com/user-attachments/assets/a9a10c23-020c-4a9d-9586-a259597be64b)
+## Tessellation
+![image](https://github.com/user-attachments/assets/a9a10c23-020c-4a9d-9586-a259597be64b)
 
 - Terrain Tessellation
 - LOD
 
-![image(3)](https://github.com/user-attachments/assets/7fadf0c3-3c31-430a-b182-9112b1099ffb)
 
-![image(4)](https://github.com/user-attachments/assets/945a9eb2-166f-45ed-a8c7-407b0406c6b3)
+## Editor
+![image](https://github.com/user-attachments/assets/511a09af-d11c-490b-91ff-ef1b690220be)
+![image](https://github.com/user-attachments/assets/454c117b-996c-4fb9-9d44-f5fdf9d769cf)
+![image](https://github.com/user-attachments/assets/4837cfe3-53b6-49b5-b17d-47c361aeb7eb)
 
-![image(5)](https://github.com/user-attachments/assets/154be34f-3d72-49bd-8bcd-add67cee201d)
+
 - Mouse Picking
+  - Rotation
+  - Translation
